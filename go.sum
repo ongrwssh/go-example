@@ -1,0 +1,4 @@
+github.com/ongrwssh/go-privatemod v0.0.0-20241016160740-36dbd3962cfc h1:dSyikzLU3IPR1PTznfxJLONvz0L0GjCOI7M/aaTkXvw=
+github.com/ongrwssh/go-privatemod v0.0.0-20241016160740-36dbd3962cfc/go.mod h1:g5z8ry+wYUOcPdpZOCgDvyQHdiG+yxBEcSlPtYRnpyo=
+github.com/ongrwssh/go-publicmod v0.0.0-20241016160733-37f39931dc2c h1:Kmo3mAh5Y+zNU8zMNcWWrdKp77ljZdV2pA++4V6axdc=
+github.com/ongrwssh/go-publicmod v0.0.0-20241016160733-37f39931dc2c/go.mod h1:f5j2TaJyTpgdLk4rSDwUjkACc/oErmcTCDZrcZUDw/8=
